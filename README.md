@@ -1,6 +1,6 @@
 
-![D-removebg-preview (1)](https://github.com/user-attachments/assets/d52e35aa-e455-400d-a87b-2b964788a55a)
-# Skin Disease Detection with Streamlit and YOLO
+# Skin Disease Detection with Streamlit and YOLO ![D-removebg-preview (1)](https://github.com/user-attachments/assets/d52e35aa-e455-400d-a87b-2b964788a55a)
+
 
 This project utilizes Streamlit and YOLO (You Only Look Once) for real-time skin disease detection using  uploaded images or webcam input. It leverages `streamlit-webrtc` for webcam integration and provides descriptions and product recommendations for detected skin diseases.
 
