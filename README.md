@@ -1,5 +1,5 @@
 
-# Skin Disease Detection with Streamlit and YOLO ![D-removebg-preview](https://github.com/user-attachments/assets/1e2a500f-0b57-4b68-a297-6aa2f992906f)
+# Skin Disease Detection with Streamlit and YOLO ![D-removebg-preview (1)](https://github.com/user-attachments/assets/b742d64b-b40f-4fa8-9f41-c71bead47a3d)
 
 
 
