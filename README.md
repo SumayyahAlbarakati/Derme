@@ -3,12 +3,11 @@
 
 
 
-This project utilizes Streamlit and YOLO (You Only Look Once) for real-time skin disease detection using  uploaded images or webcam input. It leverages `streamlit-webrtc` for webcam integration and provides descriptions and product recommendations for detected skin diseases.
+This project utilizes Streamlit and YOLO (You Only Look Once) for real-time skin disease detection using  uploaded images . It provides descriptions and product recommendations for detected skin diseases.
 
 ## Features
 
 - **Image Upload**: Alternatively, upload skin images to detect diseases.
-- **Real-time Detection**: Detect skin diseases in real-time using your webcam.
 - **Product Recommendations**: Provides product recommendations or doctor recommendations based on detected diseases.
 - **Customizable**: Easily customizable for adding more disease classes and enhancing detection capabilities.
 
